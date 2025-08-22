@@ -6,7 +6,7 @@ Originally created by **Knarfy** under the MIT License. This project brings the 
 ---
 
 ## 📦 Features
-- Brings back all the chaotic, fun, speedrun-breaking mechanics from the original mod, that you can find in  **Knarfy's** [Video](https://modrinth.com/mod/terrible-speedrun](https://www.youtube.com/watch?v=lfIsp642H2o).
+- Brings back all the chaotic, fun, speedrun-breaking mechanics from the original mod, that you can find in  **Knarfy's** [Video](https://www.youtube.com/watch?v=lfIsp642H2o).
 - Updated to work with **Minecraft 1.21.8** and **NeoForge 21.8.x**.
 - Compatible with dedicated servers.
 - Configurable via `terrible-speedrun-port` config file.
