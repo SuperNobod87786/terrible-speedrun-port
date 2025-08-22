@@ -47,6 +47,5 @@ You are free to use, modify, and redistribute this mod under the terms of the MI
 - **supernobod87786** – porting to NeoForge 1.21.8.
 
   ---
-
-  This port was created by decompiling the original mod using the [CFR Java Decompiler](https://github.com/leibnitz27/cfr)
- for learning and porting purposes.
+  
+This port was created based on the original mod using [CFR](https://github.com/leibnitz27/cfr) for compatibility purposes
