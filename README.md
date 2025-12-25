@@ -1,3 +1,7 @@
+# ⚠️ THIS REPOSITORY IS UNMAINTAINED
+****This was a one-time test and is no longer being updated. But you may make a Fork if you wish to expirement with this Repository.****
+
+
 # terrible-speedrun-port
 
 A NeoForge **1.21.8** port of Knarfy’s [Terrible Speedrun](https://modrinth.com/mod/terrible-speedrun) mod.  
